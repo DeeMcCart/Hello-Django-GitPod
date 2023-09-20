@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-!l)y(a1m=omh23i69bjv^swhxx7k2_5^ql0ku1_a)0p%@tfx2y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-deemccart-hellodjangogi-w36yxy10498.ws-eu104.gitpod.io',]
+ALLOWED_HOSTS = ['8000-deemccart-hellodjangogi-w36yxy10498.ws-eu104.gitpod.io',
+'https://deemccart-django-todo-app-17ef8537c483.herokuapp.com/']
 
 # Application definition
 
